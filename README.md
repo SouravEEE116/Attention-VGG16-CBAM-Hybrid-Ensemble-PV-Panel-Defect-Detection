@@ -138,6 +138,24 @@ This framework uses Grad-CAM to visualize CNN decision-making:
 ✔ Improves model transparency
 ✔ Supports industrial trustworthiness
 
+# 📦 Requirements
+tensorflow,
+keras,
+numpy,
+pandas,
+matplotlib,
+seaborn,
+scikit-learn,
+xgboost,
+opencv-python,
+tqdm,
+joblib,
+scipy.
+
+Install dependencies:
+
+pip install -r requirements.txt
+
 # 👨‍🔬 Author
 
 Sourav Sana
